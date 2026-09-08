@@ -1,4 +1,7 @@
-# esp32-drone-flight-controller
+<img width="2000" height="1500" alt="2" src="https://github.com/user-attachments/assets/7df5c71b-f0de-4928-afb8-aae38bd70fb9" />
+<img width="2000" height="1500" alt="1" src="https://github.com/user-attachments/assets/b23e0350-4177-445f-b4d4-8eaba985daa0" />
+<img width="2000" height="1500" alt="4" src="https://github.com/user-attachments/assets/091b4546-9187-4ee8-b611-ae0dd85b4bce" />
+<img width="2000" height="1500" alt="3" src="https://github.com/user-attachments/assets/d115e38c-df89-475b-96e6-d40894df675e" />
 I built a dummy stabilization software that uses LED brightness to act as motor strength. It is an MPU 6050 as the sensor and an ESP32 as the microcontroller.
 
 For this project, I wanted to use an ESP32 and an MPU-6050 to build a flight controller like build, the reason being that flight controllers are usually more expensive and the components that you need to build an FPV drone would be too expensive for my current state.
